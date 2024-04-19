@@ -106,6 +106,16 @@ var en = {
             "github": "#"
         },
         {
+            "img_name": "wilkley_correia",
+            "name": "Wilkley Bezerra Correia, Dr.",
+            "domain": "Robotics, Control Theory, Motor Driven Control, Data Based Control",
+            "level": "Professor",
+            "course": "Electrical Engineering",
+            "email": "wilkley@dee.ufc.br",
+            "linkedin": "https://www.linkedin.com/in/wilkley-correia-3a630a164/",
+            "github": "#"
+        },
+        {
             "img_name": "diego_madeira",
             "name": "Diego de Sousa Madeira, Dr.",
             "domain": "Robotics, Control Theory, Motor Driven Control, Data Based Control",
