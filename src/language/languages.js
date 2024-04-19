@@ -136,16 +136,6 @@ var en = {
             "github": "https://www.github.com/joelkalil/"
         },
         {
-            "img_name": "auro_gabriel",
-            "name": "Auro Gabriel Carvalho de Aramides",
-            "domain": "Robotics, Control Theory",
-            "level": "Undergraduate",
-            "course": "Electrical Engineering",
-            "email": "emaildeauro@gmail.com",
-            "linkedin": "https://www.linkedin.com/in/auro-gabriel/",
-            "github": "#"
-        },
-        {
             "img_name": "luiz_fernando",
             "name": "Luiz Fernando de Melo Soares",
             "domain": "Control Theory",
@@ -153,16 +143,6 @@ var en = {
             "course": "Electrical Engineering",
             "email": "emaildeauro@gmail.com",
             "linkedin": "https://www.linkedin.com/in/fernando-soares-24bb3824a/",
-            "github": "#"
-        },
-        {
-            "img_name": "michael_hiarley",
-            "name": "Michael Hiarley Silva Andrade",
-            "domain": "Control Theory",
-            "level": "Undergraduate",
-            "course": "Electrical Engineering",
-            "email": "emaildeauro@gmail.com",
-            "linkedin": "https://www.linkedin.com/in/michael-hiarley",
             "github": "#"
         },
         {
