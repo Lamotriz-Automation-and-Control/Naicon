@@ -344,16 +344,6 @@ var pt = {
             "github": "https://www.github.com/joelkalil/"
         },
         {
-            "img_name": "auro_gabriel",
-            "name": "Auro Gabriel Carvalho de Aramides",
-            "domain": "Robótica, Teoria de Controle",
-            "level": "Graduando",
-            "course": "Engenharia Elétrica",
-            "email": "emaildeauro@gmail.com",
-            "linkedin": "https://www.linkedin.com/in/auro-gabriel/",
-            "github": "https://www.github.com//"
-        },
-        {
             "img_name": "luiz_fernando",
             "name": "Luiz Fernando de Melo Soares",
             "domain": "Teoria de Controle",
@@ -361,16 +351,6 @@ var pt = {
             "course": "Engenharia Elétrica",
             "email": "@gmail.com",
             "linkedin": "https://www.linkedin.com/in/fernando-soares-24bb3824a/",
-            "github": "#"
-        },
-        {
-            "img_name": "michael_hiarley",
-            "name": "Michael Hiarley Silva Andrade",
-            "domain": "Teoria de Controle",
-            "level": "Graduando",
-            "course": "Engenharia Elétrica",
-            "email": "@gmail.com",
-            "linkedin": "https://www.linkedin.com/in/michael-hiarley",
             "github": "#"
         },
         {
