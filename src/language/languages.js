@@ -324,6 +324,16 @@ var pt = {
             "github": "https://www.github.com/joelkalil/"
         },
         {
+            "img_name": "gabriel_costa",
+            "name": "Gabriel Costa Leite",
+            "domain": "Robótica, Teoria de Controle",
+            "level": "Graduando",
+            "course": "Engenharia Elétrica | Engenharia Generalista",
+            "email": "joelkalil1@gmail.com",
+            "linkedin": "https://www.linkedin.com/in/joelkalil/",
+            "github": "https://www.github.com/joelkalil/"
+        },
+        {
             "img_name": "auro_gabriel",
             "name": "Auro Gabriel Carvalho de Aramides",
             "domain": "Robótica, Teoria de Controle",
