@@ -106,16 +106,6 @@ var en = {
             "github": "#"
         },
         {
-            "img_name": "wilkley_correia",
-            "name": "Wilkley Bezerra Correia, Dr.",
-            "domain": "Robotics, Control Theory, Motor Driven Control, Data Based Control",
-            "level": "Professor",
-            "course": "Electrical Engineering",
-            "email": "wilkley@dee.ufc.br",
-            "linkedin": "https://www.linkedin.com/in/wilkley-correia-3a630a164/",
-            "github": "#"
-        },
-        {
             "img_name": "diego_madeira",
             "name": "Diego de Sousa Madeira, Dr.",
             "domain": "Robotics, Control Theory, Motor Driven Control, Data Based Control",
@@ -124,6 +114,16 @@ var en = {
             "email": "diego@dee.ufc.br",
             "linkedin": "#",
             "github": "#"
+        },
+        {
+            "img_name": "gabriel_costa",
+            "name": "Gabriel Costa Leite",
+            "domain": "Control Theory",
+            "level": "Masters",
+            "course": "Masters on Electrical Engineering",
+            "email": "gabriel.wq@hotmail.com",
+            "linkedin": "https://www.linkedin.com/in/gabriel-costa-leite-a822a016a/",
+            "github": "https://www.github.com/gabrielclwq/"
         },
         {
             "img_name": "joel_kalil",
