@@ -154,6 +154,26 @@ var en = {
             "email": "julioschneiders@ieee.org",
             "linkedin": "https://www.linkedin.com/in/julio-schneiders-109a05296/",
             "github": "https://github.com/Schneidersnzz"
+        },
+        {
+            "img_name": "",
+            "name": "Isadora Ximenes",
+            "domain": "Control Theory",
+            "level": "Undergraduate",
+            "course": "Electrical Engineering",
+            "email": "",
+            "linkedin": "",
+            "github": ""
+        },
+        {
+            "img_name": "",
+            "name": "Victor Hugo",
+            "domain": "Control Theory",
+            "level": "Undergraduate",
+            "course": "Electrical Engineering",
+            "email": "",
+            "linkedin": "",
+            "github": ""
         }
     ],
 
