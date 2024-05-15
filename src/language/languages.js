@@ -132,8 +132,8 @@ var en = {
             "level": "Masters",
             "course": "Masters on Electrical Engineering",
             "email": "@gmail.com",
-            "linkedin": "#",
-            "github": "#"
+            "linkedin": "https://www.linkedin.com/in/jg-napoleão-4a204217b/?trk=opento_sprofile_topcard",
+            "github": "https://github.com/Luryonn"
         },
         {
             "img_name": "",
@@ -350,8 +350,8 @@ var pt = {
             "level": "Mestrado",
             "course": "Mestrado em Engenharia Elétrica",
             "email": "@gmail.com",
-            "linkedin": "#",
-            "github": "#"
+            "linkedin": "https://www.linkedin.com/in/jg-napoleão-4a204217b/?trk=opento_sprofile_topcard",
+            "github": "https://github.com/Luryonn"
         },
         {
             "img_name": "",
