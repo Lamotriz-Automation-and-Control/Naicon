@@ -127,7 +127,7 @@ var en = {
         },
         {
             "img_name": "",
-            "name": "João Gabriel",
+            "name": "João Gabriel Napoleão",
             "domain": "Control Theory",
             "level": "Masters",
             "course": "Masters on Electrical Engineering",
@@ -138,6 +138,16 @@ var en = {
         {
             "img_name": "",
             "name": "Victor Hugo",
+            "domain": "Control Theory",
+            "level": "Undergraduate",
+            "course": "Electrical Engineering",
+            "email": "",
+            "linkedin": "",
+            "github": ""
+        },
+        {
+            "img_name": "",
+            "name": "Isadora Ximenes",
             "domain": "Control Theory",
             "level": "Undergraduate",
             "course": "Electrical Engineering",
@@ -174,16 +184,6 @@ var en = {
             "email": "julioschneiders@ieee.org",
             "linkedin": "https://www.linkedin.com/in/julio-schneiders-109a05296/",
             "github": "https://github.com/Schneidersnzz"
-        },
-        {
-            "img_name": "",
-            "name": "Isadora Ximenes",
-            "domain": "Control Theory",
-            "level": "Undergraduate",
-            "course": "Electrical Engineering",
-            "email": "",
-            "linkedin": "",
-            "github": ""
         }
     ],
 
@@ -240,7 +240,7 @@ var pt = {
     },
 
     "footer": {
-        "author": "Projetado por NAICON @ Universidade Federal do Ceará",
+        "author": "Projetado por NEACON @ Universidade Federal do Ceará",
         "rights": "Todos os direitos reservados"
     },
 
@@ -314,7 +314,7 @@ var pt = {
 
     "team": [
         {
-            "img_name": "",
+            "img_name": "wilkley_correia",
             "name": "Wilkley Bezerra Correia, Dr.",
             "domain": "Robótica, Teoria de Controle, Controle de Sistema Acionado por Motor, Controle Baseado em Dados",
             "level": "Professor",
@@ -334,18 +334,48 @@ var pt = {
             "github": "#"
         },
         {
-            "img_name": "joel_kalil",
-            "name": "Joel Kalil da Silva Pontes",
-            "domain": "Robótica, Teoria de Controle",
-            "level": "Graduando",
-            "course": "Engenharia Elétrica | Engenharia Generalista",
-            "email": "joelkalil1@gmail.com",
-            "linkedin": "https://www.linkedin.com/in/joelkalil/",
-            "github": "https://www.github.com/joelkalil/"
-        },
-        {
             "img_name": "gabriel_costa",
             "name": "Gabriel Costa Leite",
+            "domain": "Robótica, Teoria de Controle",
+            "level": "Mestrado",
+            "course": "Mestrado em Engenharia Elétrica",
+            "email": "gabriel.wq@hotmail.com",
+            "linkedin": "https://www.linkedin.com/in/gabriel-costa-leite-a822a016a/",
+            "github": "https://www.github.com/gabrielclwq/"
+        },
+        {
+            "img_name": "",
+            "name": "João Gabriel Napoleão",
+            "domain": "Teoria de Controle",
+            "level": "Mestrado",
+            "course": "Mestrado em Engenharia Elétrica",
+            "email": "@gmail.com",
+            "linkedin": "",
+            "github": ""
+        },
+        {
+            "img_name": "",
+            "name": "Victor Hugo",
+            "domain": "Teoria de Controle",
+            "level": "Graduação",
+            "course": "Engenharia Elétrica",
+            "email": "",
+            "linkedin": "",
+            "github": ""
+        },
+        {
+            "img_name": "",
+            "name": "Isadora Ximenes",
+            "domain": "Teoria de Controle",
+            "level": "Graduação",
+            "course": "Engenharia Elétrica",
+            "email": "",
+            "linkedin": "",
+            "github": ""
+        }
+        {
+            "img_name": "joel_kalil",
+            "name": "Joel Kalil da Silva Pontes",
             "domain": "Robótica, Teoria de Controle",
             "level": "Graduando",
             "course": "Engenharia Elétrica | Engenharia Generalista",
