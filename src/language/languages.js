@@ -304,7 +304,7 @@ var pt = {
 
     "team": [
         {
-            "img_name": "wilkley_correia",
+            "img_name": "",
             "name": "Wilkley Bezerra Correia, Dr.",
             "domain": "Robótica, Teoria de Controle, Controle de Sistema Acionado por Motor, Controle Baseado em Dados",
             "level": "Professor",
