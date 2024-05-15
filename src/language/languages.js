@@ -1,4 +1,4 @@
-ONvar en = {   
+var en = {   
     "header":{
         "home": "Home",
 
@@ -22,7 +22,7 @@ ONvar en = {
     },
 
     "footer": {
-        "author": "Designed by Naicon @ Federal University of Ceará",
+        "author": "Designed by NEACON @ Federal University of Ceará",
         "rights": "All Rights Reserved"
     },
 
