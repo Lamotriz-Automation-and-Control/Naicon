@@ -120,7 +120,7 @@ var en = {
             "name": "Gabriel Costa Leite",
             "domain": "Control Theory",
             "level": "Masters",
-            "course": "Masters on Electrical Engineering",
+            "course": "Electrical Engineering",
             "email": "gabriel.wq@hotmail.com",
             "linkedin": "https://www.linkedin.com/in/gabriel-costa-leite-a822a016a/",
             "github": "https://www.github.com/gabrielclwq/"
@@ -130,7 +130,7 @@ var en = {
             "name": "João Gabriel Napoleão",
             "domain": "Control Theory",
             "level": "Masters",
-            "course": "Masters on Electrical Engineering",
+            "course": "Electrical Engineering",
             "email": "@gmail.com",
             "linkedin": "https://www.linkedin.com/in/jg-napoleão-4a204217b/?trk=opento_sprofile_topcard",
             "github": "https://github.com/Luryonn"
@@ -181,7 +181,7 @@ var en = {
             "domain": "Control Theory",
             "level": "Undergraduate",
             "course": "Electrical Engineering",
-            "email": "emaildeauro@gmail.com",
+            "email": "@gmail.com",
             "linkedin": "https://www.linkedin.com/in/fernando-soares-24bb3824a/",
             "github": "#"
         }
@@ -338,7 +338,7 @@ var pt = {
             "name": "Gabriel Costa Leite",
             "domain": "Robótica, Teoria de Controle",
             "level": "Mestrado",
-            "course": "Mestrado em Engenharia Elétrica",
+            "course": "Engenharia Elétrica",
             "email": "gabriel.wq@hotmail.com",
             "linkedin": "https://www.linkedin.com/in/gabriel-costa-leite-a822a016a/",
             "github": "https://www.github.com/gabrielclwq/"
@@ -348,7 +348,7 @@ var pt = {
             "name": "João Gabriel Napoleão",
             "domain": "Teoria de Controle",
             "level": "Mestrado",
-            "course": "Mestrado em Engenharia Elétrica",
+            "course": "Engenharia Elétrica",
             "email": "@gmail.com",
             "linkedin": "https://www.linkedin.com/in/jg-napoleão-4a204217b/?trk=opento_sprofile_topcard",
             "github": "https://github.com/Luryonn"
@@ -377,7 +377,7 @@ var pt = {
             "img_name": "joel_kalil",
             "name": "Joel Kalil da Silva Pontes",
             "domain": "Robótica, Teoria de Controle",
-            "level": "Graduando",
+            "level": "Graduação",
             "course": "Engenharia Elétrica | Engenharia Generalista",
             "email": "joelkalil1@gmail.com",
             "linkedin": "https://www.linkedin.com/in/joelkalil/",
@@ -387,7 +387,7 @@ var pt = {
             "img_name": "julio_schneiders",
             "name": "Júlio Rolim Schneiders",
             "domain": "Robótica",
-            "level": "Graduando",
+            "level": "Graduação",
             "course": "Engenharia Elétrica",
             "email": "julioschneiders@ieee.org",
             "linkedin": "https://www.linkedin.com/in/julio-schneiders-109a05296/",
@@ -397,7 +397,7 @@ var pt = {
             "img_name": "luiz_fernando",
             "name": "Luiz Fernando de Melo Soares",
             "domain": "Teoria de Controle",
-            "level": "Graduando",
+            "level": "Graduação",
             "course": "Engenharia Elétrica",
             "email": "@gmail.com",
             "linkedin": "https://www.linkedin.com/in/fernando-soares-24bb3824a/",
