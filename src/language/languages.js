@@ -166,16 +166,6 @@ var en = {
             "github": "https://www.github.com/joelkalil/"
         },
         {
-            "img_name": "luiz_fernando",
-            "name": "Luiz Fernando de Melo Soares",
-            "domain": "Control Theory",
-            "level": "Undergraduate",
-            "course": "Electrical Engineering",
-            "email": "emaildeauro@gmail.com",
-            "linkedin": "https://www.linkedin.com/in/fernando-soares-24bb3824a/",
-            "github": "#"
-        },
-        {
             "img_name": "julio_schneiders",
             "name": "Júlio Rolim Schneiders",
             "domain": "Robotics",
@@ -184,6 +174,16 @@ var en = {
             "email": "julioschneiders@ieee.org",
             "linkedin": "https://www.linkedin.com/in/julio-schneiders-109a05296/",
             "github": "https://github.com/Schneidersnzz"
+        },
+        {
+            "img_name": "luiz_fernando",
+            "name": "Luiz Fernando de Melo Soares",
+            "domain": "Control Theory",
+            "level": "Undergraduate",
+            "course": "Electrical Engineering",
+            "email": "emaildeauro@gmail.com",
+            "linkedin": "https://www.linkedin.com/in/fernando-soares-24bb3824a/",
+            "github": "#"
         }
     ],
 
@@ -384,16 +384,6 @@ var pt = {
             "github": "https://www.github.com/joelkalil/"
         },
         {
-            "img_name": "luiz_fernando",
-            "name": "Luiz Fernando de Melo Soares",
-            "domain": "Teoria de Controle",
-            "level": "Graduando",
-            "course": "Engenharia Elétrica",
-            "email": "@gmail.com",
-            "linkedin": "https://www.linkedin.com/in/fernando-soares-24bb3824a/",
-            "github": "#"
-        },
-        {
             "img_name": "julio_schneiders",
             "name": "Júlio Rolim Schneiders",
             "domain": "Robótica",
@@ -402,6 +392,16 @@ var pt = {
             "email": "julioschneiders@ieee.org",
             "linkedin": "https://www.linkedin.com/in/julio-schneiders-109a05296/",
             "github": "https://github.com/Schneidersnzz"
+        },
+        {
+            "img_name": "luiz_fernando",
+            "name": "Luiz Fernando de Melo Soares",
+            "domain": "Teoria de Controle",
+            "level": "Graduando",
+            "course": "Engenharia Elétrica",
+            "email": "@gmail.com",
+            "linkedin": "https://www.linkedin.com/in/fernando-soares-24bb3824a/",
+            "github": "#"
         }
     ],
 
