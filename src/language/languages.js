@@ -144,7 +144,7 @@ var en = {
             "email": "",
             "linkedin": "",
             "github": ""
-        }
+        },
         {
             "img_name": "joel_kalil",
             "name": "Joel Kalil da Silva Pontes",
