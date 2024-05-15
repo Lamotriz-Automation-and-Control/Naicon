@@ -132,8 +132,8 @@ var en = {
             "level": "Masters",
             "course": "Masters on Electrical Engineering",
             "email": "@gmail.com",
-            "linkedin": "",
-            "github": ""
+            "linkedin": "#",
+            "github": "#"
         },
         {
             "img_name": "",
@@ -141,9 +141,9 @@ var en = {
             "domain": "Control Theory",
             "level": "Undergraduate",
             "course": "Electrical Engineering",
-            "email": "",
-            "linkedin": "",
-            "github": ""
+            "email": "@gmail.com",
+            "linkedin": "#",
+            "github": "#"
         },
         {
             "img_name": "",
@@ -151,9 +151,9 @@ var en = {
             "domain": "Control Theory",
             "level": "Undergraduate",
             "course": "Electrical Engineering",
-            "email": "",
-            "linkedin": "",
-            "github": ""
+            "email": "@gmail.com",
+            "linkedin": "#",
+            "github": "#"
         },
         {
             "img_name": "joel_kalil",
@@ -350,8 +350,8 @@ var pt = {
             "level": "Mestrado",
             "course": "Mestrado em Engenharia Elétrica",
             "email": "@gmail.com",
-            "linkedin": "",
-            "github": ""
+            "linkedin": "#",
+            "github": "#"
         },
         {
             "img_name": "",
@@ -359,9 +359,9 @@ var pt = {
             "domain": "Teoria de Controle",
             "level": "Graduação",
             "course": "Engenharia Elétrica",
-            "email": "",
-            "linkedin": "",
-            "github": ""
+            "email": "@gmail.com",
+            "linkedin": "#",
+            "github": "#"
         },
         {
             "img_name": "",
@@ -369,9 +369,9 @@ var pt = {
             "domain": "Teoria de Controle",
             "level": "Graduação",
             "course": "Engenharia Elétrica",
-            "email": "",
-            "linkedin": "",
-            "github": ""
+            "email": "@gmail.com",
+            "linkedin": "#",
+            "github": "#"
         },
         {
             "img_name": "joel_kalil",
