@@ -126,6 +126,26 @@ var en = {
             "github": "https://www.github.com/gabrielclwq/"
         },
         {
+            "img_name": "",
+            "name": "João Gabriel",
+            "domain": "Control Theory",
+            "level": "Masters",
+            "course": "Masters on Electrical Engineering",
+            "email": "@gmail.com",
+            "linkedin": "",
+            "github": ""
+        },
+        {
+            "img_name": "",
+            "name": "Victor Hugo",
+            "domain": "Control Theory",
+            "level": "Undergraduate",
+            "course": "Electrical Engineering",
+            "email": "",
+            "linkedin": "",
+            "github": ""
+        }
+        {
             "img_name": "joel_kalil",
             "name": "Joel Kalil da Silva Pontes",
             "domain": "Robotics, Control Theory",
@@ -158,16 +178,6 @@ var en = {
         {
             "img_name": "",
             "name": "Isadora Ximenes",
-            "domain": "Control Theory",
-            "level": "Undergraduate",
-            "course": "Electrical Engineering",
-            "email": "",
-            "linkedin": "",
-            "github": ""
-        },
-        {
-            "img_name": "",
-            "name": "Victor Hugo",
             "domain": "Control Theory",
             "level": "Undergraduate",
             "course": "Electrical Engineering",
