@@ -136,7 +136,7 @@ var en = {
             "github": "https://github.com/Luryonn"
         },
         {
-            "img_name": "",
+            "img_name": "victor_hugo.png",
             "name": "Victor Hugo",
             "domain": "Control Theory",
             "level": "Undergraduate",
@@ -354,7 +354,7 @@ var pt = {
             "github": "https://github.com/Luryonn"
         },
         {
-            "img_name": "",
+            "img_name": "victor_hugo.png",
             "name": "Victor Hugo",
             "domain": "Teoria de Controle",
             "level": "Graduação",
