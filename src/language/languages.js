@@ -137,12 +137,12 @@ var en = {
         },
         {
             "img_name": "victor_hugo.png",
-            "name": "Victor Hugo",
-            "domain": "Control Theory",
+            "name": "Victor Hugo Silva Maciel",
+            "domain": "Control theory, robotics",
             "level": "Undergraduate",
             "course": "Electrical Engineering",
-            "email": "@gmail.com",
-            "linkedin": "#",
+            "email": "vhugosm@alu.ufc.br",
+            "linkedin": "https://www.linkedin.com/in/victor-hugo-8768511aa/",
             "github": "#"
         },
         {
