@@ -98,7 +98,7 @@ var en = {
         {
             "img_name": "wilkley_correia",
             "name": "Wilkley Bezerra Correia, Dr.",
-            "domain": "Robotics, Control Theory, Motor Driven Control, Data Based Control",
+            "domain": "Control Theory, Robotics, Motor Driven Control, Data Based Control",
             "level": "Professor",
             "course": "Electrical Engineering",
             "email": "wilkley@dee.ufc.br",
@@ -108,7 +108,7 @@ var en = {
         {
             "img_name": "diego_madeira",
             "name": "Diego de Sousa Madeira, Dr.",
-            "domain": "Robotics, Control Theory, Motor Driven Control, Data Based Control",
+            "domain": "Control Theory, Robotics, Motor Driven Control, Data Based Control",
             "level": "Professor",
             "course": "Electrical Engineering",
             "email": "diego@dee.ufc.br",
@@ -118,7 +118,7 @@ var en = {
         {
             "img_name": "gabriel_costa",
             "name": "Gabriel Costa Leite",
-            "domain": "Control Theory",
+            "domain": "Control Theory, Robotics",
             "level": "Masters",
             "course": "Electrical Engineering",
             "email": "gabriel.wq@hotmail.com",
@@ -138,7 +138,7 @@ var en = {
         {
             "img_name": "victor_hugo.png",
             "name": "Victor Hugo Silva Maciel",
-            "domain": "Control theory, robotics",
+            "domain": "Control theory, Robotics",
             "level": "Undergraduate",
             "course": "Electrical Engineering",
             "email": "vhugosm@alu.ufc.br",
@@ -316,7 +316,7 @@ var pt = {
         {
             "img_name": "wilkley_correia",
             "name": "Wilkley Bezerra Correia, Dr.",
-            "domain": "Robótica, Teoria de Controle, Controle de Sistema Acionado por Motor, Controle Baseado em Dados",
+            "domain": "Teoria de Controle, Robótica, Controle de Sistema Acionado por Motor, Controle Baseado em Dados",
             "level": "Professor",
             "course": "Engenharia Elétrica",
             "email": "wilkley@dee.ufc.br",
@@ -326,7 +326,7 @@ var pt = {
         {
             "img_name": "diego_madeira",
             "name": "Diego de Sousa Madeira, Dr.",
-            "domain": "Robótica, Teoria de Controle, Controle de Sistema Acionado por Motor, Controle Baseado em Dados",
+            "domain": "Teoria de Controle, Robótica, Controle de Sistema Acionado por Motor, Controle Baseado em Dados",
             "level": "Professor",
             "course": "Engenharia Elétrica",
             "email": "diego@dee.ufc.br",
@@ -336,7 +336,7 @@ var pt = {
         {
             "img_name": "gabriel_costa",
             "name": "Gabriel Costa Leite",
-            "domain": "Robótica, Teoria de Controle",
+            "domain": "Teoria de Controle, Robótica",
             "level": "Mestrado",
             "course": "Engenharia Elétrica",
             "email": "gabriel.wq@hotmail.com",
@@ -355,12 +355,12 @@ var pt = {
         },
         {
             "img_name": "victor_hugo.png",
-            "name": "Victor Hugo",
-            "domain": "Teoria de Controle",
+            "name": "Victor Hugo Silva Maciel",
+            "domain": "Teoria de Controle, Robótica",
             "level": "Graduação",
             "course": "Engenharia Elétrica",
-            "email": "@gmail.com",
-            "linkedin": "#",
+            "email": "vhugosm@alu.ufc.br",
+            "linkedin": "https://www.linkedin.com/in/victor-hugo-8768511aa/",
             "github": "#"
         },
         {
