@@ -34,7 +34,7 @@ var en = {
     "publications":{
         "title": "Publications",
         "subtitle": "Most recent and relevant publications",
-        "publications": [
+        "public": [
             {
                 "authors": "MADEIRA, DIEGO DE SOUSA; CORREIA, WILKLEY BEZERRA.",
                 "title": "Data-Driven Saturated State Feedback Design for Polynomial Systems Using Noisy Data.",
@@ -259,7 +259,7 @@ var pt = {
     "publications":{
         "title": "Publicações",
         "subtitle": "Publicações mais recentes e relevantes",
-        "publications": [
+        "public": [
             {
                 "authors": "MADEIRA, DIEGO DE SOUSA; CORREIA, WILKLEY BEZERRA.",
                 "title": "Data-Driven Saturated State Feedback Design for Polynomial Systems Using Noisy Data.",
