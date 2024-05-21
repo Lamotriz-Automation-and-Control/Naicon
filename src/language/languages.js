@@ -36,6 +36,13 @@ var en = {
         "subtitle": "Most recent and relevant publications",
         "publications": [
             {
+                "authors": "MADEIRA, DIEGO DE SOUSA; CORREIA, WILKLEY BEZERRA.",
+                "title": "Data-Driven Saturated State Feedback Design for Polynomial Systems Using Noisy Data.",
+                "link": "https://ieeexplore.ieee.org/document/10533428",
+                "location": "In: IEEE TRANSACTIONS ON AUTOMATIC CONTROL. doi 10.1109/TAC.2024.3402499",
+                "year": 2024
+            },
+            {
                 "authors": "SGRÒ, DOMENICO ; CORREIA, WILKLEY BEZERRA ; LEÃO, RUTH PASTÔRA SARAIVA ; TOFOLI, FERNANDO LESSA ; TIBÚRCIO, SILAS ALYSSON SOUZA.",
                 "title": "Nonlinear current control strategy for grid-connected voltage source converters.",
                 "link": "https://www.sciencedirect.com/science/article/abs/pii/S0142061522003684?via%3Dihub",
@@ -253,6 +260,13 @@ var pt = {
         "title": "Publicações",
         "subtitle": "Publicações mais recentes e relevantes",
         "publications": [
+            {
+                "authors": "MADEIRA, DIEGO DE SOUSA; CORREIA, WILKLEY BEZERRA.",
+                "title": "Data-Driven Saturated State Feedback Design for Polynomial Systems Using Noisy Data.",
+                "link": "https://ieeexplore.ieee.org/document/10533428",
+                "location": "In: IEEE TRANSACTIONS ON AUTOMATIC CONTROL. doi 10.1109/TAC.2024.3402499",
+                "year": 2024
+            },
             {
                 "authors": "SGRÒ, DOMENICO ; CORREIA, WILKLEY BEZERRA ; LEÃO, RUTH PASTÔRA SARAIVA ; TOFOLI, FERNANDO LESSA ; TIBÚRCIO, SILAS ALYSSON SOUZA.",
                 "title": "Nonlinear current control strategy for grid-connected voltage source converters.",
