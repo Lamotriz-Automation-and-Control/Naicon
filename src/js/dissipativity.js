@@ -1,4 +1,4 @@
-// Function to add the html code content for contact page
+// Function to add the html code content for dissipativity page
 function addDissipativityContent(){
     // Getting elements
     content = document.getElementById('content');
