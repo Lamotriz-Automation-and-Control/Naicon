@@ -222,7 +222,7 @@ var en = {
         }
     },
 
-    "project_1": {
+    "proj_1": {
         "title": "Dissipativity based...",
         "last_update": "Last update on November 16th, 2023",
         "description": {
@@ -456,12 +456,12 @@ var pt = {
         }
     },
 
-    "project_1": {
+    "proj_1": {
         "title": "Dissipatividade baseada...",
         "last_update": "Last update on November 16th, 2023",
         "description": {
             "title": "Descrição...",
             "details": "Overview ..."
-        }
+        },
     }
 };
