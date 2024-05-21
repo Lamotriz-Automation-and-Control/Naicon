@@ -1,41 +1,30 @@
 // Function to add the html code content for contact page
-function addContactContent(){
+function addDissipativityContent(){
     // Getting elements
     content = document.getElementById('content');
 
     // Adding html code
     content.innerHTML = 
-    `
+    
+        
+    //"project_1": {
+    //    "title": "Dissipativity based...",
+    //    "last_update": "Last update on November 16th, 2023",
+    //    "description": {
+    //        "title": "Description...",
+    //        "details": "Overview ..."
+    //    },
+
+        
     <h1> ${language.project_1.title} </h1>
 
     <h2>${language.project_1.office_phone.title}</h2>
-    <p>${language.contact.office_phone.phone}</p>
+    <p>${language.projet_1.description}</p>
     <br>
-
-    <h2>${language.contact.email.title}</h2>
-    <p><a href="mailto:${language.contact.email.email}">${language.contact.email.email}</a></p>
-    <br>
-
-    <h2>${language.contact.mailing_address.title}</h2>
-    <p>${language.contact.mailing_address.responsable}</p>
-    <p>${language.contact.mailing_address.place}</p>
-    <p>${language.contact.mailing_address.city}, ${language.contact.mailing_address.cep}</p>
-    <br>
-
-    <h2>${language.contact.office_location.title}</h2>
-    <p>${language.contact.office_location.laboratory}<a href="${language.contact.office_location.map}">[Google Maps]</a></p>
-    <p>${language.contact.office_location.place}</p>
-    <p>${language.contact.office_location.city}, ${language.contact.office_location.cep}</p>
-    <br> 
-
-    <div id="map"></div>
-    <br>
-
-    <small>${language.contact.last_update}</small>
   `;
 }
 
-addContactContent();
+addDissipativityContent();
 
 // Initialize the map -> setView([latitude, longitude], zoom)
 var map = L.map('map').setView([-3.74544911119979, -38.57916624923715], 20);
