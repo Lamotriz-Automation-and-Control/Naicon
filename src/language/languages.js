@@ -235,7 +235,7 @@ var pt = {
 
         "publications": "Publicações",
         "projects": "Projetos",
-        "project_1": "Projeto 1",
+        "project_1": "Dissipatividade em Processos Industriais",
         "project_2": "Projeto 2",
         "project_3": "Projeto 3",
 
