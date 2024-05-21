@@ -143,7 +143,7 @@ var en = {
             "github": "https://github.com/Luryonn"
         },
         {
-            "img_name": "victor_hugo.jpeg",
+            "img_name": "victor_hugo",
             "name": "Victor Hugo Silva Maciel",
             "domain": "Control theory, Robotics",
             "level": "Undergraduate",
@@ -368,7 +368,7 @@ var pt = {
             "github": "https://github.com/Luryonn"
         },
         {
-            "img_name": "victor_hugo.jpeg",
+            "img_name": "victor_hugo",
             "name": "Victor Hugo Silva Maciel",
             "domain": "Teoria de Controle, Robótica",
             "level": "Graduação",
