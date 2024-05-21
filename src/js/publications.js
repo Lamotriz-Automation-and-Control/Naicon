@@ -13,16 +13,16 @@ function addPublicationsContent(){
     // Getting year
     year = parseInt(new Date().getFullYear());
     // Size of publications
-    size = language.publications.publications.length;
+    size = language.publications.public.length;
     // 
     label = false;
     counter = 0;
     index_publication = 1;
 
     while(counter < size){
-        for(i in language.publications.publications){
+        for(i in language.publications.public){
 
-            if (language.publications.publications[i].year == year){
+            if (language.publications.public[i].year == year){
 
                 if (label == false){
                     content.innerHTML += `
@@ -33,7 +33,7 @@ function addPublicationsContent(){
 
                 // Adding html code
                 content.innerHTML += `  
-                    <p>${index_publication}. ${language.publications.publications[i].authors} <a href="${language.publications.publications[i].link}" >${language.publications.publications[i].title}</a> ${language.publications.publications[i].location}</p>
+                    <p>${index_publication}. ${language.publications.public[i].authors} <a href="${language.publications.public[i].link}" >${language.publications.public[i].title}</a> ${language.publications.public[i].location}</p>
                 `;
                 index_publication ++;
                 counter++
