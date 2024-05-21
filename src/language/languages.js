@@ -228,7 +228,7 @@ var en = {
         "description": {
             "title": "Description...",
             "details": "Overview ..."
-        },
+        }
     }   
 };
 
@@ -462,6 +462,6 @@ var pt = {
         "description": {
             "title": "Descrição...",
             "details": "Overview ..."
-        },
+        }
     }
 };
