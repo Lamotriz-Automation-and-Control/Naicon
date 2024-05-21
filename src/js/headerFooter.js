@@ -47,7 +47,7 @@ function addHeaderFooter(){
                 <li class="dropdown">
                     <button class="dropbtn">${language.header.projects}</button>
                     <div class="dropdown-content">
-                    <a href="#">${language.header.project_1}</a>
+                    <a href="./scr/dissipativity.html">${language.header.project_1}</a>
                     <a href="#">${language.header.project_2}</a>
                     <a href="#">${language.header.project_3}</a>
                     </div>
