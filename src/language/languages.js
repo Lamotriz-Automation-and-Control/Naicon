@@ -220,7 +220,16 @@ var en = {
             "title": "Email",
             "email": "lamotriz@dee.ufc.br"
         }
-    }
+    },
+
+    "project_1": {
+        "title": "Dissipativity based...",
+        "last_update": "Last update on November 16th, 2023",
+        "description": {
+            "title": "Description...",
+            "details": "Overview ..."
+        },
+    }   
 };
 
 var pt = {
@@ -438,12 +447,21 @@ var pt = {
             "cep": "60020-181"
         },
         "office_phone": {
-            "title": "Office Phone",
+            "title": "Telefone",
             "phone": "+55 (085) 3366-9584"
         },
         "email": {
             "title": "Email",
             "email": "lamotriz@dee.ufc.br"
+        }
+    },
+
+    "project_1": {
+        "title": "Dissipatividade baseada...",
+        "last_update": "Last update on November 16th, 2023",
+        "description": {
+            "title": "Descrição...",
+            "details": "Overview ..."
         }
     }
 };
