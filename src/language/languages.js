@@ -214,7 +214,7 @@ var en = {
         },
         "office_phone": {
             "title": "Office Phone",
-            "phone": "+55 (085) 3366-9581"
+            "phone": "+55 (085) 3366-9584"
         },
         "email": {
             "title": "Email",
@@ -439,7 +439,7 @@ var pt = {
         },
         "office_phone": {
             "title": "Office Phone",
-            "phone": "+55 (085) 3366-9581"
+            "phone": "+55 (085) 3366-9584"
         },
         "email": {
             "title": "Email",
