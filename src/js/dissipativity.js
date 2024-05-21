@@ -17,7 +17,7 @@ function addDissipativityContent(){
     content.innerHTML = 
     `
     <h1>${language.proj_1.title}</h1>
-    <p>${language.proj_1.description}</p>
+    <p>${language.proj_1.description.title}</p>
     `;
 }
 
