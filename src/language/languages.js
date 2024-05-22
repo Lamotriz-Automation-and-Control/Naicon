@@ -248,7 +248,7 @@ var pt = {
         "project_2": "Projeto 2",
         "project_3": "Projeto 3",
 
-        "team": "Time",
+        "team": "Equipe",
         "contact": "Contato",
 
         "search": "Pesquisa",
