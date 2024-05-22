@@ -18,7 +18,7 @@ header {
     background-color: #5eb568
     color: #000;
     padding: 10px;
-    box-shadow: 0 2px 4px 0 rgba(0,0,0,.5);
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,.75);
 }
 
 nav {
