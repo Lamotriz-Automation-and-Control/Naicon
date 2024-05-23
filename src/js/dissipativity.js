@@ -18,6 +18,9 @@ function addDissipativityContent(){
     `
     <h1>${language.proj_1.title}</h1>
     <p>${language.proj_1.description.title}</p>
+    <br>
+
+    <small>${language.proj_1.last_update}</small>
     `;
 }
 
