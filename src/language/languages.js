@@ -223,11 +223,11 @@ var en = {
     },
 
     "proj_1": {
-        "title": "Dissipativity based...",
-        "last_update": "Last update on November 16th, 2023",
+        "title": "Control and estimation of motor-driven systems based on dissipativity",
+        "last_update": "Last update on May 23th, 2024",
         "description": {
-            "title": "Description...",
-            "details": "Overview ..."
+            "title": "Non-linear control based on dissipativity theory applied for industrial processes",
+            "details": "This project embraces dissipativity concepts for motor-driven systems, essentially the class of asynchronous motors. Dissipativity is employed under the feedback control perspective where we investigate new iterative methods for stabilizing and estimating the domain of attraction. The problem is unfolded in both the model-based framework and data-driven framework."
         }
     }   
 };
@@ -457,11 +457,11 @@ var pt = {
     },
 
     "proj_1": {
-        "title": "Dissipatividade baseada...",
-        "last_update": "Last update on November 16th, 2023",
+        "title": "Controle e estimação de sistemas motrizes baseados em dissipatividade",
+        "last_update": "Last update on May 23th, 2024",
         "description": {
-            "title": "Descrição...",
-            "details": "Overview ..."
+            "title": "Controle não-linear baseado na teoria da dissipatividade aplicado a processos industriais",
+            "details": "Este projeto contempla a aplicação dos conceitos de dissipatividade de sistemas dinâmicos a plantas de sistemas motrizes, fundamentalmente os motores assíncronos. A dissipatividade é empregada no contexto de técnicas de controle em malha fechada em que investigam-se novos métodos iterativos de estabilização e estimação  dos domínios de atração. O problema é tratado tanto sob a perspectiva baseada em modelo quanto da perspectiva baseada em dados."
         }
     }
 };
