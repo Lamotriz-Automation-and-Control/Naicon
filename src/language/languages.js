@@ -161,17 +161,7 @@ var en = {
             "email": "@gmail.com",
             "linkedin": "#",
             "github": "#"
-        },
-        /*{
-            "img_name": "joel_kalil",
-            "name": "Joel Kalil da Silva Pontes",
-            "domain": "Robotics, Control Theory",
-            "level": "Undergraduate",
-            "course": "Electrical Engineering | Generalist Engineering",
-            "email": "joelkalil1@gmail.com",
-            "linkedin": "https://www.linkedin.com/in/joelkalil/",
-            "github": "https://www.github.com/joelkalil/"
-        },*/
+        },        
         {
             "img_name": "julio_schneiders",
             "name": "Júlio Rolim Schneiders",
@@ -395,16 +385,6 @@ var pt = {
             "email": "@gmail.com",
             "linkedin": "#",
             "github": "#"
-        },
-        {
-            "img_name": "joel_kalil",
-            "name": "Joel Kalil da Silva Pontes",
-            "domain": "Robótica, Teoria de Controle",
-            "level": "Graduação",
-            "course": "Engenharia Elétrica | Engenharia Generalista",
-            "email": "joelkalil1@gmail.com",
-            "linkedin": "https://www.linkedin.com/in/joelkalil/",
-            "github": "https://www.github.com/joelkalil/"
         },
         {
             "img_name": "julio_schneiders",
