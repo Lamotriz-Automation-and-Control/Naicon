@@ -162,7 +162,7 @@ var en = {
             "linkedin": "#",
             "github": "#"
         },
-        {
+        /*{
             "img_name": "joel_kalil",
             "name": "Joel Kalil da Silva Pontes",
             "domain": "Robotics, Control Theory",
@@ -171,7 +171,7 @@ var en = {
             "email": "joelkalil1@gmail.com",
             "linkedin": "https://www.linkedin.com/in/joelkalil/",
             "github": "https://www.github.com/joelkalil/"
-        },
+        },*/
         {
             "img_name": "julio_schneiders",
             "name": "Júlio Rolim Schneiders",
